@@ -13,7 +13,7 @@
 | Lyric Writing Date | April 29, 2026 |
 | Song Page | [Open Song Page](https://imabusayed.github.io/ana-mertaah-ma3ak-i-feel-safe-with-you/) |
 | License | [View License](./LICENSE.md) |
-| Get License | [License this song: Ana Mertaah Ma3ak – I feel safe with you](https://music.abusayed.com.bd/Licensing/) |
+| Get License | [Music Rights & Licensing for Ana Mertaah Ma3ak – I feel safe with you](https://music.abusayed.com.bd/Licensing/) |
 | Artist | Abu Sayed |
 
 ---
